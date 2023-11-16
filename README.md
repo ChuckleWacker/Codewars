@@ -1,3 +1,3 @@
-# Python Scripts
+# Scripts
 
-Just some ideas.
+Just some scratch work for codewars
